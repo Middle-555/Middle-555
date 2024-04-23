@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/elydre/elydre/blob/main/all.md">
+        <img src="https://raw.githubusercontent.com/Middle-555/stats/master/generated/languages.svg" align="center"/>
+    </a>
 [![kpourcel's 42 stats](https://badge.mediaplus.ma/darkblue/kpourcel?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
