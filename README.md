@@ -14,6 +14,8 @@
 
 
 
-Reach me on : 
-
-![https://github.com/Middle-555/Middle-555/blob/main/assets/Discord.gif?raw=true](https://dcbadge.vercel.app/api/shield/263255031967383554)
+## Reach me on : 
+<div align="center">
+  <a href="https://lanyard-profile-readme.vercel.app/api/263255031967383554?theme=dark&bg=000000&hideBadges=true&idleMessage=Probably%20coding%20or%20listening%20music%20!">
+  <img src="https://lanyard-profile-readme.vercel.app/api/263255031967383554?theme=dark&bg=000000&hideBadges=true&idleMessage=Probably%20coding%20or%20listening%20music%20!">
+</a>
