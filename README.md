@@ -1,4 +1,9 @@
-### Hi there 👋 I'm currrently learning C in 42 Perpignan.
+### About Me, Myself & I : 
+* Started coding in July 2023.
+* French, residing in Perpignan.
+* Studied International Marketing before 42.
+* Currently learning C/C++, and more comming.
+
 
 
 
@@ -16,15 +21,26 @@
 
 ## Reach me on : 
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
   <a href="https://lanyard-profile-readme.vercel.app/api/263255031967383554?theme=dark&bg=505050&hideBadges=true&idleMessage=Probably%20coding%20or%20listening%20music%20!">
-    <img src="https://github.com/Middle-555/Middle-555/blob/main/assets/Discord.gif?raw=true" width="50" style="margin-right: 1000px;">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" width="110">
   </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/k%C3%A9vin-pourcel/">
-    <img src="https://github.com/Middle-555/Middle-555/blob/main/assets/LinkedIn.gif?raw=true" width="50">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" width="110">
+  </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kpourcel@student.42perpignan.fr"">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg" width="100">
+  </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.instagram.com/pourcel.kevin?igsh=MWd6bnA4a2Z1MmhyNg%3D%3D&utm_source=qr">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" width="120">
   </a>
 </div>
+
+
+
 
 
 
