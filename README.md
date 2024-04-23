@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Middle-555&theme=algolia&border_radius=5.9)](https://git.io/streak-stats)
+
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/:263255031967383554)](https://discord.com/users/:263255031967383554)
