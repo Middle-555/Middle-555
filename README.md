@@ -15,7 +15,17 @@
 
 
 ## Reach me on : 
-<div align="center">
+
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://lanyard-profile-readme.vercel.app/api/263255031967383554?theme=dark&bg=505050&hideBadges=true&idleMessage=Probably%20coding%20or%20listening%20music%20!">
-  <img src="https://lanyard-profile-readme.vercel.app/api/263255031967383554?theme=dark&bg=505050&hideBadges=true&idleMessage=Probably%20coding%20or%20listening%20music%20!">
-</a>
+    <img src="https://github.com/Middle-555/Middle-555/blob/main/assets/Discord.gif?raw=true" width="50" style="margin-right: 1000px;">
+  </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/k%C3%A9vin-pourcel/">
+    <img src="https://github.com/Middle-555/Middle-555/blob/main/assets/LinkedIn.gif?raw=true" width="50">
+  </a>
+</div>
+
+
+
+
