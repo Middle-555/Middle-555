@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 ![My awesome stats](https://raw.githubusercontent.com/Middle-555/github-stats-terminal/72366006f2589288e911e03256ced51163cc0397/github_stats.svg)
 
 
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=kevinnzk555&show_border=true">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=kevinnzk555&show_border=true" alt="Data Card for Spotify">
+</a>
+
 Reach me on : 
 
 ![https://github.com/Middle-555/Middle-555/blob/main/assets/Discord.gif?raw=true](https://dcbadge.vercel.app/api/shield/263255031967383554)
