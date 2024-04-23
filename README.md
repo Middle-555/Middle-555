@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Middle-555&theme=algolia&border_radius=5.9)](https://git.io/streak-stats)
 
+
+[![My awesome stats](https://raw.githubusercontent.com/Middle-555/github-stats-terminal/88c2701f724bdee00e1501415891edbd1ed82788/github_stats.svg)
 Reach me on : 
 
 ![https://github.com/Middle-555/Middle-555/blob/main/assets/Discord.gif?raw=true](https://dcbadge.vercel.app/api/shield/263255031967383554)
