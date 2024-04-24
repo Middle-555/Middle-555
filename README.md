@@ -45,8 +45,8 @@
 ## My Github Stats :
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Middle-555/github-stats-terminal/72366006f2589288e911e03256ced51163cc0397/github_stats.svg">
-    <img src="https://raw.githubusercontent.com/Middle-555/github-stats-terminal/72366006f2589288e911e03256ced51163cc0397/github_stats.svg" width ="500">
+  <a href="https://github.com/Middle-555/github-stats-terminal">
+    <img src="https://cdn.jsdelivr.net/gh/Middle-555/github-stats-terminal@latest/github_stats.svg" width ="500">
   </a>
 </p>
 
