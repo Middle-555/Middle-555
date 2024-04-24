@@ -45,10 +45,11 @@
 ## My Github Stats :
 
 <p align="center">
-  <a href="https://github.com/Middle-555/github-stats-terminal">
-    <img src="https://cdn.jsdelivr.net/gh/Middle-555/github-stats-terminal@latest/github_stats.svg" width ="500">
+  <a href="https://github.com/Middle-555/github-stats-terminal-style">
+    <img src="https://cdn.jsdelivr.net/gh/Middle-555/github-stats-terminal-style@latest/github_stats.svg" width ="500">
   </a>
 </p>
+
 
 ## More : 
 <p align="center">
