@@ -66,7 +66,7 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" width="110">
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/k%C3%A9vin-pourcel/">
+  <a href="https://www.linkedin.com/in/kevin-pourcel/">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" width="110">
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
