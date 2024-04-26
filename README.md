@@ -21,7 +21,7 @@
 [Ft_printf](https://github.com/Middle-555/printf)|-(1)-|Recreation of printf function|100/100|C|
 |[Born2beroot](https://github.com/Middle-555/Born2beRoot)|-(1)-|Virtual machine|100/100|VM|
 |[Get_next_line](https://github.com/Middle-555/get_next_line)|-(1)-|Reading from a file descriptor|125/100|C|
-|[Mini_talk](https://github.com/Middle-555/Minitalk)|-(2)-|Handling Signal|125/100| C|
+|[Minitalk](https://github.com/Middle-555/Minitalk)|-(2)-|Handling Signal|125/100| C|
 |[So_Long](https://github.com/Middle-555/so_long)|-(2)-|2d Game with MLX|100/100| C|
 |[Push_swap](https://github.com/Middle-555/push_swap)|-(2)-|Sorting algorythm|/100|C|
 
