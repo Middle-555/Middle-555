@@ -55,8 +55,6 @@
 ## Reach me on : 
 
 <div align="center">
-  <a href="https://lanyard-profile-readme.vercel.app/api/263255031967383554?theme=dark&bg=505050&hideBadges=true&idleMessage=Probably%20coding%20or%20listening%20music%20!">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" width="110">
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kevin-pourcel/">
