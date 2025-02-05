@@ -1,5 +1,5 @@
 ### Hello i'm Kévin 👋 
-## About Me, Myself & I : 
+## About Me : 
 * Started coding in July 2023.
 * French, residing in Perpignan.
 * Studied International Marketing before 42.
