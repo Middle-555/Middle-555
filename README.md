@@ -52,14 +52,6 @@
 </p>
 
 
-## More : 
-<p align="center">
-<a href="https://data-card-for-spotify.herokuapp.com/api/card?user_id=kevinnzk555&show_border=true&custom_title=Middle%20Spotify%20Data&limit=3">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=kevinnzk555&show_border=true&custom_title=Middle%20Spotify%20Data&limit=3" alt="Data Card for Spotify" width ="600">
-</a>
-</p>
-
-
 ## Reach me on : 
 
 <div align="center">
